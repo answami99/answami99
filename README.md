@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @answami99
 - 🌱 I’m currently learning iOS Development
-- 💞️ I’m looking to collaborate on any swiftUI or UIKit projects.
+- 💞️ I’m looking to collaborate on any SwiftUI or UIKit projects.
 - 📫 How to reach me @answami99 on twitter.
 
 <!---
