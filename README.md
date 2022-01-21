@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @answami99
-- 👀 I’m interested in Coding
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on any swiftUI or UIKit projects.
 - 📫 How to reach me @answami99 on twitter.
